@@ -1,0 +1,22 @@
+.mix{
+    background-color: black;
+}
+html,body{
+    background-color: antiquewhite;
+    margin: 0;
+    padding: 0;
+}
+.sik{
+    background-color: bisque;
+    margin: 30px;
+    pad: 20px;
+}
+.img{
+    width: 40%;
+    margin: 30px;
+}
+.button{
+    color: black;
+    padding: 5px;
+    text-decoration: none;
+}
